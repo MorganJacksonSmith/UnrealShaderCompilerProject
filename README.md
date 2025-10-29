@@ -2,7 +2,7 @@
 A ue4ss blueprint mod that allows users to compile shaders for materials and Niagara effects in (almost every ) packaged unreal game, and how a unreal developer could easily implement it.
 
 
-Currently under construction , 1 game has mod files posted.
+Currently under construction , 1 game has mod files posted, framework and more mods for more titles coming soon. 
 
 
 
