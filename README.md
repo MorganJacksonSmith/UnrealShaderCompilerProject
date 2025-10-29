@@ -27,9 +27,7 @@ System Shock Remake\SystemShock\Content\Paks\LogicMods\ShaderCompliation.pak
 
 
 5. while in game ( not the pause menu for now ) you can press f8 , or left bumper + right bumper + dpad down on a gamepad , to engage the shader compilation.
-the widget will take up the whole screen until complation is complete.
-
-(there is also a button to engage the shader compiler in the ue4ss GUI console)
+the widget will take up the whole screen until complation is complete. (there is also a button to engage the shader compiler in the ue4ss GUI console)
 
 
 6. shader complation is complete. you can now play the game
