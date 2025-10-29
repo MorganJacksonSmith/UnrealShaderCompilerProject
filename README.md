@@ -19,9 +19,7 @@ MajorVersion = 4
 
 MinorVersion = 27
 
-3. Unzip the SystemShock.zip into the main folder of the game
-
-the folder stucture should end up like so : 
+3. Unzip the SystemShock.zip into the main folder of the game, the folder stucture should end up like so : 
 
 System Shock Remake\SystemShock\Content\Paks\LogicMods\ShaderCompliation.pak
 
