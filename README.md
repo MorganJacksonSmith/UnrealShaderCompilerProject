@@ -23,11 +23,9 @@ MinorVersion = 27
 
 System Shock Remake\SystemShock\Content\Paks\LogicMods\ShaderCompliation.pak
 
-4. Due to the shock rifle shader crashing in DX12 mode, ( a problem with the game itself) i would avoid using it with this mod.  i can make a workaround or possibly fix the problematic shader later. For now do not use -dx12 as a launch option ( would of had to manually of set this in steam etc.) 
 
-
-5. while in game ( not the pause menu for now ) you can press f8 , or left bumper + right bumper + dpad down on a gamepad , to engage the shader compilation.
+4. while in game ( not the pause menu for now ) you can press f8 , or left bumper + right bumper + dpad down on a gamepad , to engage the shader compilation.
 the widget will take up the whole screen until complation is complete. (there is also a button to engage the shader compiler in the ue4ss GUI console )
 
 
-6. shader complation is complete. you can now play the game
+5. shader complation is complete. you can now play the game
