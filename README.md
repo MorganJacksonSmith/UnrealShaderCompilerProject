@@ -14,7 +14,9 @@ System Shock 2023 setup :
 2. You must set the version in UE4SS-settings.ini , for system shock it is as follows :
 
 [EngineVersionOverride]
+
 MajorVersion = 4
+
 MinorVersion = 27
 
 3. Unzip the SystemShock.zip into the main folder of the game
