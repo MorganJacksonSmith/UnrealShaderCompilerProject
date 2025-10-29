@@ -1,2 +1,2 @@
 # Unreal Shader Compiler Project
-A ue4ss blueprint mod that allows users to compiler shaders for materials and Niagara effects in (almost every ) packaged unreal game, and how a unreal developer could easily implement it.
+A ue4ss blueprint mod that allows users to compile shaders for materials and Niagara effects in (almost every ) packaged unreal game, and how a unreal developer could easily implement it.
